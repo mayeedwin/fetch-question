@@ -19,6 +19,7 @@ getStudents().then(data => {
 
     // join all array elements and separate with a ','
     male.join(',');
+    female.join(',');
 
     // print male array length = number of males
     console.log(`Number of Males : ${male.length}`);
