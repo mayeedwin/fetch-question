@@ -1,6 +1,6 @@
 # Interview Question
 
-### Technical assessment
+## Technical assessment
 
    Given a [list of 1000 students](https://github.com/mayeedwin/fetch-moringa/blob/master/src/data/Students.json), return the number
  of male and female students using their IDs.
